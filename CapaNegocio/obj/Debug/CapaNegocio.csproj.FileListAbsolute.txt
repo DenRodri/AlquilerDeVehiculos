@@ -1,0 +1,33 @@
+C:\Users\Lorenzo\OneDrive\Escritorio\Denzel\BDCRUD\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Lorenzo\OneDrive\Escritorio\Denzel\BDCRUD\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Lorenzo\OneDrive\Escritorio\Denzel\BDCRUD\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Lorenzo\OneDrive\Escritorio\Denzel\BDCRUD\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\Lorenzo\OneDrive\Escritorio\Denzel\BDCRUD\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Lorenzo\OneDrive\Escritorio\Denzel\BDCRUD\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\Lorenzo\OneDrive\Escritorio\Denzel\BDCRUD\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Lorenzo\OneDrive\Escritorio\Denzel\BDCRUD\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Lorenzo\OneDrive\Escritorio\Denzel\BDCRUD\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Lorenzo\OneDrive\Escritorio\Denzel\BDCRUD\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Lorenzo\OneDrive\Escritorio\Denzel\BDCRUD\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\Denzel\Video CRUD\BDCRUD\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+D:\Denzel\Video CRUD\BDCRUD\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\Denzel\Video CRUD\BDCRUD\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\Denzel\Video CRUD\BDCRUD\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\Denzel\Video CRUD\BDCRUD\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\Denzel\Video CRUD\BDCRUD\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\Denzel\Video CRUD\BDCRUD\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\Denzel\Video CRUD\BDCRUD\CapaNegocio\bin\Debug\CapaEntidades.dll
+D:\Denzel\Video CRUD\BDCRUD\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\Denzel\Video CRUD\BDCRUD\CapaNegocio\bin\Debug\CapaEntidades.pdb
+D:\Denzel\Video CRUD\BDCRUD\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaNegocio\obj\Debug\CapaNegocio.pdb

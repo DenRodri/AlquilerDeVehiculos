@@ -1,0 +1,116 @@
+C:\Users\Lorenzo\OneDrive\Escritorio\Denzel\BDCRUD\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Lorenzo\OneDrive\Escritorio\Denzel\BDCRUD\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Lorenzo\OneDrive\Escritorio\Denzel\BDCRUD\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Lorenzo\OneDrive\Escritorio\Denzel\BDCRUD\CapaPresentacion\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Lorenzo\OneDrive\Escritorio\Denzel\BDCRUD\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\Lorenzo\OneDrive\Escritorio\Denzel\BDCRUD\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Lorenzo\OneDrive\Escritorio\Denzel\BDCRUD\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Lorenzo\OneDrive\Escritorio\Denzel\BDCRUD\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\Lorenzo\OneDrive\Escritorio\Denzel\BDCRUD\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Lorenzo\OneDrive\Escritorio\Denzel\BDCRUD\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Lorenzo\OneDrive\Escritorio\Denzel\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Lorenzo\OneDrive\Escritorio\Denzel\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lorenzo\OneDrive\Escritorio\Denzel\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVehiculos.resources
+C:\Users\Lorenzo\OneDrive\Escritorio\Denzel\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Lorenzo\OneDrive\Escritorio\Denzel\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Lorenzo\OneDrive\Escritorio\Denzel\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Lorenzo\OneDrive\Escritorio\Denzel\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Lorenzo\OneDrive\Escritorio\Denzel\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Lorenzo\OneDrive\Escritorio\Denzel\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+D:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+D:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDepartamentos.resources
+D:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPresupuestos.resources
+D:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.FrmContactos.resources
+D:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUsuarios.resources
+D:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEmpleados.resources
+D:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.FrmClientes.resources
+D:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVehiculos.resources
+D:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+D:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\bin\Debug\CapaEntidades.dll
+D:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\bin\Debug\CapaNegocio.dll
+D:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+D:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+D:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.FrmInventarios.resources
+D:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+D:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.FrmSucursal.resources
+D:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstado_Vehiculos.resources
+D:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCitas.resources
+D:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.FrmFacturas.resources
+D:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTransacciones.resources
+D:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.FrmFotos.resources
+D:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.FrmOrdenes.resources
+D:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.FrmHub.resources
+E:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+E:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+E:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+E:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\bin\Debug\CapaEntidades.dll
+E:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\bin\Debug\CapaNegocio.dll
+E:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\bin\Debug\CapaDatos.dll
+E:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+E:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+E:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\bin\Debug\CapaDatos.pdb
+E:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+E:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDepartamentos.resources
+E:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPresupuestos.resources
+E:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.FrmContactos.resources
+E:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUsuarios.resources
+E:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEmpleados.resources
+E:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.FrmClientes.resources
+E:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.FrmInventarios.resources
+E:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.FrmSucursal.resources
+E:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstado_Vehiculos.resources
+E:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCitas.resources
+E:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.FrmFacturas.resources
+E:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTransacciones.resources
+E:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.FrmFotos.resources
+E:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.FrmOrdenes.resources
+E:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.FrmHub.resources
+E:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVehiculos.resources
+E:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+E:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+E:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+E:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+E:\Denzel\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDepartamentos.resources
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPresupuestos.resources
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.FrmContactos.resources
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUsuarios.resources
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEmpleados.resources
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.FrmClientes.resources
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.FrmInventarios.resources
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.FrmSucursal.resources
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstado_Vehiculos.resources
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCitas.resources
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.FrmFacturas.resources
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTransacciones.resources
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.FrmFotos.resources
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.FrmOrdenes.resources
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.FrmHub.resources
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVehiculos.resources
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache

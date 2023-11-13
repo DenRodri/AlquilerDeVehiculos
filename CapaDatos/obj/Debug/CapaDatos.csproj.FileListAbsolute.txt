@@ -1,0 +1,31 @@
+C:\Users\Lorenzo\OneDrive\Escritorio\Denzel\BDCRUD\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Lorenzo\OneDrive\Escritorio\Denzel\BDCRUD\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Lorenzo\OneDrive\Escritorio\Denzel\BDCRUD\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\Lorenzo\OneDrive\Escritorio\Denzel\BDCRUD\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\Lorenzo\OneDrive\Escritorio\Denzel\BDCRUD\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Lorenzo\OneDrive\Escritorio\Denzel\BDCRUD\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Lorenzo\OneDrive\Escritorio\Denzel\BDCRUD\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Lorenzo\OneDrive\Escritorio\Denzel\BDCRUD\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Lorenzo\OneDrive\Escritorio\Denzel\BDCRUD\CapaDatos\obj\Debug\CapaDatos.pdb
+E:\Denzel\Video CRUD\BDCRUD\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+E:\Denzel\Video CRUD\BDCRUD\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+E:\Denzel\Video CRUD\BDCRUD\CapaDatos\obj\Debug\CapaDatos.dll
+E:\Denzel\Video CRUD\BDCRUD\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\Denzel\Video CRUD\BDCRUD\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\Denzel\Video CRUD\BDCRUD\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\Denzel\Video CRUD\BDCRUD\CapaDatos\obj\Debug\CapaDatos.dll
+D:\Denzel\Video CRUD\BDCRUD\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\Denzel\Video CRUD\BDCRUD\CapaDatos\bin\Debug\CapaDatos.dll
+D:\Denzel\Video CRUD\BDCRUD\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\Denzel\Video CRUD\BDCRUD\CapaDatos\bin\Debug\CapaEntidades.dll
+D:\Denzel\Video CRUD\BDCRUD\CapaDatos\bin\Debug\CapaEntidades.pdb
+D:\Denzel\Video CRUD\BDCRUD\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaDatos\obj\Debug\CapaDatos.pdb

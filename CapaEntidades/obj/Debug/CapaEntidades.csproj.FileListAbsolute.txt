@@ -1,0 +1,22 @@
+C:\Users\Lorenzo\OneDrive\Escritorio\Denzel\BDCRUD\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\Lorenzo\OneDrive\Escritorio\Denzel\BDCRUD\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\Lorenzo\OneDrive\Escritorio\Denzel\BDCRUD\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\Lorenzo\OneDrive\Escritorio\Denzel\BDCRUD\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Lorenzo\OneDrive\Escritorio\Denzel\BDCRUD\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\Lorenzo\OneDrive\Escritorio\Denzel\BDCRUD\CapaEntidades\obj\Debug\CapaEntidades.pdb
+E:\Denzel\Video CRUD\BDCRUD\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+E:\Denzel\Video CRUD\BDCRUD\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+E:\Denzel\Video CRUD\BDCRUD\CapaEntidades\obj\Debug\CapaEntidades.dll
+E:\Denzel\Video CRUD\BDCRUD\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\Denzel\Video CRUD\BDCRUD\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+D:\Denzel\Video CRUD\BDCRUD\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+D:\Denzel\Video CRUD\BDCRUD\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\Denzel\Video CRUD\BDCRUD\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\Denzel\Video CRUD\BDCRUD\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\Denzel\Video CRUD\BDCRUD\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\Denzel\Documents\Denzel\ITESA 5to\Administracion\Video CRUD\BDCRUD\CapaEntidades\obj\Debug\CapaEntidades.pdb
